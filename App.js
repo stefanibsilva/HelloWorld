@@ -5,7 +5,7 @@ export default function App() {
     <View style={styles.container}>
       <Text style={styles.titulo}>Olá Mundo</Text>
 
-      <text>Meu nome é Stefani e este é meu primeiro APP em React!</text>
+      <Text>Meu nome é Stefani e este é meu primeiro APP em React!</Text>
     </View>
   );
 }
